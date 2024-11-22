@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-TXT-LEECH-BOT Logo">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg2r8A6Rh0ghE-3VPiVucLHtcxij0eCakxCCR_uaYkjU0is0jB7lNgT4ynOJ3Pf_GF8Sz2gZ26c0--wptrA7dGi_0rJtZFtFkIRy_vgG" alt="SONIC-KUWAL-SSC-TXT-LEECH-BOT Logo">
 </p>
 <h1 align="center">
-  VJ TXT LEECH BOT
+  SONIC KUWAL SSC TXT LEECH BOT
 </h1>
 
 ## Deploy Tutorial - [Video Link](https://youtu.be/l1u3C_F79QE)
@@ -11,11 +11,11 @@
 
 <b><details><summary>Tap On Me For See Credit</summary>
 
-💝 Credit Goes To [Tech VJ](https://telegram.me/Kingvj01) So Don't Forgot To Give Credit
+💝 Credit Goes To [SONIC KUWAL UPDATE KANHA](https://t.me/SONICKUWALUPDATEKANHA) So Don't Forgot To Give Credit
 
 💖 And Thank You So Much To All Who Help In This Journey 💕
 
-Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
+Copyright ©️ [SONIC KUWAL SSC](https://telegram.me@SONICKUWALSSCBOT)
 
 </b>
 </details>
@@ -24,16 +24,16 @@ Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
 
 <b><details><summary>Tap On Me For See Details Of Owner</summary>
 
-- YouTube Channel : [Tech VJ](https://youtube.com/@Tech_VJ)
-- Telegram Channel : [VJ Botz](https://telegram.me/VJ_Botz)
-- Contact Link : [King VJ](https://telegram.me/Kingvj01)
-- Instagram Id Link : [Tech VJ](https://instagram.com/tech.vj)
+- WEBSITE LINK: [SONIC KUWAL SSC](https://sonickuwalssc.blogspot.com/)
+- Telegram Channel : [SONIC KUWAL UPDATE KANHA](https://t.me/SONICKUWALUPDATEKANHA)
+- Contact Link : [SONIC KUWAL SSC](https://t.me/SONICKUWALSSCBOT)
+- CONTENT ME Link : [CONTENT ME](https://t.me/SONICKUWALSSCBOT)
 
 </b>
 </details>
 
 
-### Copyright ©️ [Tech VJ](https://youtube.com/@Tech_VJ)
+### Copyright ©️ [SONIC KUWAL UPDATE KANHA](https://t.me/SONICKUWALUPDATEKANHA)
 
 <b>Selling This Repo Or Code Of This Repo For Money Is Strictly Prohibited 🚫</b>
 
