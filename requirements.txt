@@ -33,3 +33,8 @@ pyrogram==2.0.106
 asyncio
 humanize
 uvloop
+
+
+pyrogram
+umongo
+speedtest-cli
