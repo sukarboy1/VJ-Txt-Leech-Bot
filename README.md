@@ -39,7 +39,16 @@ python3 bot.py
 
 ## vars.py [vars.py](https://github.com/Soninkuwal/VJ-Txt-Leech-Bot1/blob/main/modules/vars.py)
 
+Builder Pack
+Dockerfile
+```
+./Dockerfile
+```
 
+port
+```
+8080
+```
 
 ```
 ADMINS=123****
