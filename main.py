@@ -57,7 +57,7 @@ async def restart_handler(_, m):
 async def upload(bot: Client, m: Message):
     editable = await m.reply_text('𝕤ᴇɴᴅ ᴛxᴛ ғɪʟᴇ ⚡️')
     input: Message = await bot.listen(editable.chat.id)
-    await bot.send_document(-1002324562253, x)
+    await bot.send_document(-1002324562253,)
     x = await input.download()
     await input.delete(True)
 
