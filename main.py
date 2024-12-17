@@ -1,5 +1,5 @@
 # Don't Remove Credit Tg - @SONICKUWALSSCBOT
-# website For Amazing Bot https://sonickuwalssc.blogspot.com/
+# website 🚩 For Amazing Bot https://sonickuwalssc.blogspot.com/
 # Ask Doubt on telegram @SONICKUWALUPDATEKANHA
 
 import os
