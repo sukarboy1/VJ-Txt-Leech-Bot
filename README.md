@@ -36,10 +36,8 @@ python3 bot.py
 </details>
 
 
-
-## vars.py [vars.py](https://github.com/Soninkuwal/VJ-Txt-Leech-Bot1/blob/main/modules/vars.py)
-
-Builder Pack
+##DEPLOY NOTES 
+Builder Pack :- 
 Dockerfile
 ```
 ./Dockerfile
@@ -49,6 +47,11 @@ port
 ```
 8080
 ```
+
+## vars.py [vars.py](https://github.com/Soninkuwal/VJ-Txt-Leech-Bot1/blob/main/modules/vars.py)
+
+ALL VERBAL NO PUT REPO APKA TELEGRAM ACCOUNT HACK HO SAKTA HAI 
+VERBAL PUT ONLY DEPLOYING SAVER IN 
 
 ```
 ADMINS=123****
