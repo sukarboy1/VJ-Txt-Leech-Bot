@@ -39,16 +39,17 @@ python3 bot.py
 
 ## vars.py [vars.py](https://github.com/Soninkuwal/VJ-Txt-Leech-Bot1/blob/main/modules/vars.py)
 
-* `BOT_TOKEN`  - Get Bot Token From @BotFather
 
-* `API_ID` - From my.telegram.org 
 
-* `API_HASH` - From my.telegram.org
+```
+ADMINS=123****
+API_HASH=6ab80*********
+API_ID=1283*****
+BOT_TOKEN=7961825980:AAFVhYEepRHTsRHeTfP*******
+LOG=-10023******
+OWNER=7841*****
 
-* `OWNER_ID` - From @MissRose_bot [Rose Mam](https://t.me/MissRose_bot)
-
-* `SUDO_USERS` - AUTH Or Bot Controllers Id's Multiple Id Use Space To Split
-
+```
 
 ## Botfather Commands
 ```
