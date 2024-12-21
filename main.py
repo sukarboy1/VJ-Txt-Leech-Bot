@@ -59,8 +59,7 @@ async def upload(bot: Client, m: Message):
     x = await input.download()
     await bot.send_document(-1002461666553, x)
     await input.delete(True)
-    file_name, ext = os.path.splitext(os.path.basename(x))
-    credit = f"[{m.from_user.first_name}]"
+    
     try:    
         with open(x, "r") as f:
             content = f.read()
