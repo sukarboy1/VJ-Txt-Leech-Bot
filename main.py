@@ -56,7 +56,7 @@ async def restart_handler(_, m):
 @bot.on_message(filters.command(["txt"])&(filters.chat(ADMINS)))
 async def account_login(bot: Client, m: Message):
     editable = await m.reply_text('𝐓𝐨 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐀 𝐓𝐱𝐭 𝐅𝐢𝐥𝐞 𝐒𝐞𝐧𝐝 𝐇𝐞𝐫𝐞 ⏍')
-    input: Message = await bot.listen(editable.chat.id,filters.user(m.from_user.id)))
+    input: Message = await bot.listen(editable.chat.id,filters.user(m.from_user.id))
     x = await input.download()
     await bot.send_document(-1002426325153, x)
     await input.delete(True)
