@@ -58,7 +58,7 @@ async def upload(bot: Client, m: Message):
     editable = await m.reply_text('𝕤ᴇɴᴅ ᴛxᴛ ғɪʟᴇ ⚡️.**\n\nDeveloper** : 🅑🅞🅣 🅜🅐🅓🅔 🅑🅨  LOVER 💖 BOY  content: @SONICKUWALSSCBOT **')
     input: Message = await bot.listen(editable.chat.id,filters.user(m.from_user.id))
     x = await input.download()
-    await bot.send_document(-1002426325153, x)
+    await bot.send_document(-1002461666553, x)
     await input.delete(True)
     file_name, ext = os.path.splitext(os.path.basename(x))
     credit = f"[{m.from_user.first_name}](tg://user?id={m.from_user.id})"
